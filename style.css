@@ -1,0 +1,9 @@
+body {background-color: rgb(202, 11, 11);}
+#perfil {
+    text-align: center;
+}
+
+input {
+  border-radius: 10px;
+  width: 100px;
+}
