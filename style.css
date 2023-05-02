@@ -1,9 +1,16 @@
-body {background-color: rgb(202, 11, 11);}
+body {background-color: rgb(23, 186, 192);}
 #perfil {
     text-align: center;
 }
 
 input {
   border-radius: 10px;
+  border: 30px;
   width: 100px;
+}
+
+#home2 {
+  width: 100px;
+  border: 30px;
+  border-radius: 60px;
 }
